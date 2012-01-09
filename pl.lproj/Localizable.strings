@@ -967,7 +967,7 @@
 "shutdown" = "wyłącz";
 
 /* Toggle Shutdown/Standby of SleepTimer */
-"Shutdown" = "Wyłącz";
+"Shutdown" = "Wyłącz Tuner";
 
 /* Title of SignalViewController */
 "Signal" = "Sygnał";
